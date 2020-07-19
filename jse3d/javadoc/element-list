@@ -1,1 +1,9 @@
-com.emeryferrari.jse3d.gfx
+com.alyxferrari.jse3d
+com.alyxferrari.jse3d.enums
+com.alyxferrari.jse3d.example
+com.alyxferrari.jse3d.exc
+com.alyxferrari.jse3d.gfx
+com.alyxferrari.jse3d.interfaces
+com.alyxferrari.jse3d.network
+com.alyxferrari.jse3d.obj
+com.alyxferrari.jse3d.obj.update
